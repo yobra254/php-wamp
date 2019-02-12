@@ -1,0 +1,12 @@
+/*custom.css*/
+body{background-image: url("../../images photography_2/sm.jpg");background-attachment: fixed;
+	background-repeat: no-repeat;background-position: center;font-family: andy
+}
+.jumbotron{background: #00ff7f;opacity: 0.5}
+#er{color: #00ff00;font-family: andy;padding: 5px;}
+.them{border-radius: 15px;margin: 5px;margin-right: 5px}
+#footer{color: #55ffff}
+#me{font-family: andy;color: #00ff00 ;font-size: 30px;}
+#us{color: #00ff00}
+#qw{color: #00ff00 }
+#photo{padding-top:8px;padding-bottom: 8px;padding-right: 8px;border-radius: 30px }
